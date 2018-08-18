@@ -1,0 +1,14 @@
+>Bitte die experimentell gemessenen Wellenlängen mit Fehler bei entsprechender Ordnung eintragen.
+>Falls entsprechende Ordnung nicht bestimmbar Ordung löschen
+>wellenlänge in nm
+> m Wellenlange Fehler
+3 819.2 2
+4 568.5 2
+5 497.6 2
+6 466.2 2
+7 455 2
+>8Ist nicht da
+9 432.9 2
+10 429.9 2
+11 426.1 2
+>12 nicht wirklich zu sehen
